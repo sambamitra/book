@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sambamitra/book.svg?branch=master)](https://travis-ci.org/sambamitra/book)
+[![Build Status](https://travis-ci.org/sambamitra/book.svg?branch=main)](https://travis-ci.org/sambamitra/book)
 # Book service
 This is a simple micro-service based on Spring Boot.
 
